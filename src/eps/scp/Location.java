@@ -1,10 +1,3 @@
-/* ---------------------------------------------------------------
-Práctica 3.
-Código fuente : IndiceInvertidoConcPRA3
-Grado Informática
-49381774S Albert Martín López.
-49380060A Pau Barahona Setó.
---------------------------------------------------------------- */
 
 package eps.scp;
 
@@ -70,3 +63,4 @@ public class Location implements Comparable<Location>
             return 1;
     }
 }
+
